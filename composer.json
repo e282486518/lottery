@@ -1,0 +1,21 @@
+{
+    "name": "e282486518/lottery",
+    "description": "抽奖，随机模型 保底模型 作弊",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "phphome@qq.com",
+            "email": "phphome@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "e282486518\\lottery\\": ""
+        }
+    }
+}
